@@ -25,7 +25,7 @@ export const Header = ({
 		setTotal(0);
 		setCountProducts(0);
 	};
-
+/*cart*/
 	return (
 		<header>
 			<h1>Tienda</h1>

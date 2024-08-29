@@ -1,5 +1,5 @@
 import { data } from '../data';
-
+/*products data*/
 export const ProductList = ({
 	allProducts,
 	setAllProducts,

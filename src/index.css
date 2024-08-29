@@ -1,4 +1,4 @@
-/* Globales */
+/* Globals */
 *::after,
 *::before,
 * {
@@ -6,14 +6,14 @@
 	padding: 0;
 	box-sizing: border-box;
 }
-
+/* margenes*/
 body {
 	margin: 0 auto;
 	max-width: 1200px;
 	font-family: 'Lato';
 	color: #333;
 }
-
+/* iconos*/
 .icon-cart {
 	width: 40px;
 	height: 40px;
@@ -89,7 +89,7 @@ header {
 .titulo-producto-carrito {
 	font-size: 20px;
 }
-
+/*precios*/
 .precio-producto-carrito {
 	font-weight: 700;
 	font-size: 20px;
@@ -110,7 +110,7 @@ header {
 	stroke: red;
 	cursor: pointer;
 }
-
+/*carrito*/
 .cart-total {
 	display: flex;
 	justify-content: center;
